@@ -1,1 +1,1 @@
-# android_device_samsung_a02s
+# Device Tree for Samsung Galaxy A02s

@@ -1,1 +1,1 @@
-# Device Tree for Samsung Galaxy A02s
+# Dummy Device Tree for Samsung Galaxy A02s

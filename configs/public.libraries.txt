@@ -1,0 +1,12 @@
+libOpenCL.so
+libadsprpc.so
+libcdsprpc.so
+libfastcvopt.so
+libhta_hexagon_runtime.so
+liblistenjni.so
+liblistensoundmodel2.so
+libnpu.so
+libqti-perfd-client.so
+libsdsprpc.so
+libswldc_capture_core.camera.samsung.so
+unnhal-acc-hta.so
